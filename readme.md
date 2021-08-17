@@ -1,9 +1,12 @@
-This work is accepted in ICASSP2021. 
-We provide a more detailed related work and motivation in a full version paper.
-The source code is accessed.
+This is the origin implementation of COOPNet in the following paper: [COOPNet: Multi-Modal Cooperative Gender Prediction in Social Media.]（https://ieeexplore.ieee.org/document/9414808）
+
+
+The dataset used in the paper can be download in the [PAN2018.]（https://pan.webis.de/clef18/pan18-web/author-profiling.html）. 
 
 # Citation
+Our paper is published in ICASSP 2021 (CCF B). 
 If you find this repository useful in your research, please consider citing the following paper:
+
 ```
 @inproceedings{DBLP:conf/icassp/LiHZLL21,
   author    = {Lin Li and
