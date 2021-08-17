@@ -1,7 +1,7 @@
-This is the origin implementation of COOPNet in the following paper: [COOPNet: Multi-Modal Cooperative Gender Prediction in Social Media.]（https://ieeexplore.ieee.org/document/9414808）
+This is the origin implementation of COOPNet in the following paper: [COOPNet: Multi-Modal Cooperative Gender Prediction in Social Media.](https://ieeexplore.ieee.org/document/9414808)
 
 
-The dataset used in the paper can be download in the [PAN2018.]（https://pan.webis.de/clef18/pan18-web/author-profiling.html）. 
+The dataset used in the paper can be download in the [PAN2018.](https://pan.webis.de/clef18/pan18-web/author-profiling.html) 
 
 # Citation
 Our paper is published in ICASSP 2021 (CCF B). 
